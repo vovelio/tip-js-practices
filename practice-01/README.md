@@ -29,7 +29,7 @@ node practice-01/js/progress.js
 node practice-01/js/plan.js
 node practice-01/js/debug.js
 node practice-01/js/progress-input.js
-
+```
 ### Фактический ввод/вывод консоли
 
 ```text
